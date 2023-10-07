@@ -1,0 +1,3 @@
+aeg 기사 : https://www.unibw.de/patch/projects/automated-exploit-generation
+
+힙취약점 aeg : https://link.springer.com/chapter/10.1007/978-3-030-52683-2_5
