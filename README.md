@@ -1,18 +1,31 @@
-# Purple Team AI Project
-# Red Team
-- The Red Team is dedicated to offensive security. They conduct simulated attacks, identify vulnerabilities, and exploit weaknesses to evaluate our system's defenses.
+# Purple_Team_AI
+- This project, Purple_Team_AI, is focused on developing an innovative cybersecurity solution by integrating advanced techniques from Red Team, Blue Team, and Purple Team methodologies.
+
+# Red Team <-- WhiteHatSchool Project 
+- The Red Team leverages expertise in AEG (Automatci Exploit Generation) techniques and reinforcement learning algorithms such as A3C and Q-learning. Automated penetration testing, driven by meta-exploits, prioritizes successful penetrations via vulnerabilities. The model is trained with a weighted emphasis on successful penetration based on vulnerabilities.
+1. binary code-based Automatic Exploit Generation(AEG)
+2. A3C, Q-learning etc.. RL agorithms Status, Environment(OpenAI) build
+	- Status : network information through network scanning
+	- Weighing : Vnlnerability Found
+3. Make automatic Analysis Report
+4. Automatic Penetration simulation <-- Matasploit
+5. Make PlayBook 
 
 # Blue Team
-- The Blue Team focuses on defensive security. They implement security measures, monitor system activities, and respond to incidents to ensure the system's resilience against attacks.
+- The Blue Team receives outputs from Red Team AI, including explored vulnerabilities and corresponding exploit codes. They implement automated patches and build secure systems, ensuring vulnerabilities are effectively mitigated.
+1. Vulnerability-based automated patching discovered
+2. SOAR Solution
+3. Report on the Web 
 
 # Purple Team
-- The Purple Team acts as a bridge between the Red and Blue Teams. They facilitate communication, collaboration, and knowledge sharing between the offensive and defensive teams. The Purple Team ensures that both teams work effectively together to enhance the overall security posture.
+- The Purple Team focuses on the collaborative synergy between Red Team AI and Blue Team AI's MVPs. The goal is to derive an AI-based next-generation Security Orchestration, Automation, and Response (SOAR) solution when both Red Team and Blue Team MVPs are implemented.
 
 # MVP Model
-- The MVP (Minimum Viable Product) Model is our foundational version of the Purple Team AI system. It includes essential features and functionalities necessary to demonstrate the core concept of our project.
+- The MVP Model aims to construct a minimal functional prototype within a specific domain (e.g., web, Windows PowerShell). This prototype demonstrates the core capabilities of the Purple Team AI solution.
 
-# WHAT SHOULD WE DO
-- In this section, outline the tasks, goals, and milestones for the project. Define specific objectives for the Red, Blue, and Purple Teams. Include deadlines, responsibilities, and any other relevant details.
+# What Should We Do
+- Implement technical frameworks required for Red Team and Blue Team functionalities.
+Develop algorithms and automation processes essential for Red Team's penetration testing and Blue Team's automated patching.
 
-# START-UP
-- Provide information about the project's inception, team members, and initial planning. Include details about the project's goals, scope, and expected outcomes. Additionally, mention any technologies or tools being used in the initial stages of the project.
+# Start-Up
+- At this stage, the project's start-up involves defining the project scope, outlining team roles, and planning the initial technical implementation. The team will focus on setting clear goals, determining technological requirements, and establishing the foundational framework for the Purple Team AI project.
