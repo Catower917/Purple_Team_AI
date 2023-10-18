@@ -1,6 +1,7 @@
 # Purple_Team_AI
 - This project, Purple_Team_AI, is focused on developing an innovative cybersecurity solution by integrating advanced techniques from Red Team, Blue Team, and Purple Team methodologies.
 
+<<<<<<< HEAD
 # Red Team <-- WhiteHatSchool Project 
 - The Red Team leverages expertise in AEG (Automatci Exploit Generation) techniques and reinforcement learning algorithms such as A3C and Q-learning. Automated penetration testing, driven by meta-exploits, prioritizes successful penetrations via vulnerabilities. The model is trained with a weighted emphasis on successful penetration based on vulnerabilities.
 1. binary code-based Automatic Exploit Generation(AEG)
@@ -16,6 +17,13 @@
 1. Vulnerability-based automated patching discovered
 2. SOAR Solution
 3. Report on the Web 
+=======
+# Red Team
+- The Red Team leverages expertise in AEG (Automatci Exploit Generation) techniques and reinforcement learning algorithms such as A3C and Q-learning. Automated penetration testing, driven by meta-exploits, prioritizes successful penetrations via vulnerabilities. The model is trained with a weighted emphasis on successful penetration based on vulnerabilities.
+
+# Blue Team
+- The Blue Team receives outputs from Red Team AI, including explored vulnerabilities and corresponding exploit codes. They implement automated patches and build secure systems, ensuring vulnerabilities are effectively mitigated.
+>>>>>>> origin/main
 
 # Purple Team
 - The Purple Team focuses on the collaborative synergy between Red Team AI and Blue Team AI's MVPs. The goal is to derive an AI-based next-generation Security Orchestration, Automation, and Response (SOAR) solution when both Red Team and Blue Team MVPs are implemented.
