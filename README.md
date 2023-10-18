@@ -5,8 +5,8 @@
 - The Red Team leverages expertise in AEG (Automatci Exploit Generation) techniques and reinforcement learning algorithms such as A3C and Q-learning. Automated penetration testing, driven by meta-exploits, prioritizes successful penetrations via vulnerabilities. The model is trained with a weighted emphasis on successful penetration based on vulnerabilities.
 1. binary code-based Automatic Exploit Generation(AEG)
 2. A3C, Q-learning etc.. RL agorithms Status, Environment(OpenAI) build
-	- Status : network information through network scanning
-	- Weighing : Vnlnerability Found
+	 - Status : network information through network scanning
+	 - Weighing : Vnlnerability Found
 3. Make automatic Analysis Report
 4. Automatic Penetration simulation <-- Matasploit
 5. Make PlayBook 
