@@ -3,7 +3,7 @@
 - An SOAR solution that can block known vulnerabilities and zero-day attacks through attacks and defenses between the RL-based automated penetration test Red Team (Fuzzing, AEG) and the automated patch system Blue Team
 The goal is to implement an automation MVP model that automates the generation of exploit codes for vulnerabilities that were discovered during the project. 
 Target not determined
-ex) 1. Automatic Fuzzing Test-based : windows programs
+ex) 1. Automatic Fuzzing Test-based : windows programs etc..
 2. Web application-based
 3. Sysyem network-based
 
