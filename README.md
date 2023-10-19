@@ -1,5 +1,11 @@
 # Purple_Team_AI
 - This project, Purple_Team_AI, is focused on developing an innovative cybersecurity solution by integrating advanced techniques from Red Team, Blue Team, and Purple Team methodologies.
+- An SOAR solution that can block known vulnerabilities and zero-day attacks through attacks and defenses between the RL-based automated penetration test Red Team (Fuzzing, AEG) and the automated patch system Blue Team
+The goal is to implement an automation MVP model that automates the generation of exploit codes for vulnerabilities that were discovered during the project. 
+Target not determined
+ex) 1. Automatic Fuzzing Test-based : windows programs
+2. Web application-based
+3. Sysyem network-based
 
 # Red Team <-- WhiteHatSchool Project 
 - The Red Team leverages expertise in AEG (Automatci Exploit Generation) techniques and reinforcement learning algorithms such as A3C and Q-learning. Automated penetration testing, driven by meta-exploits, prioritizes successful penetrations via vulnerabilities. The model is trained with a weighted emphasis on successful penetration based on vulnerabilities.
@@ -26,6 +32,10 @@
 # What Should We Do
 - Implement technical frameworks required for Red Team and Blue Team functionalities.
 Develop algorithms and automation processes essential for Red Team's penetration testing and Blue Team's automated patching.
+- Setting a Targeting
+1. Automatic Fuzzing Test-based : windows programs
+2. Web application-based
+3. Sysyem network-based
 
 # Start-Up
 - At this stage, the project's start-up involves defining the project scope, outlining team roles, and planning the initial technical implementation. The team will focus on setting clear goals, determining technological requirements, and establishing the foundational framework for the Purple Team AI project.
